@@ -7,8 +7,6 @@ Your goal is to survive waves of enemies, complete levels, and progress through 
 
 ## 📸 Screenshots
 
-> *(Place your game screenshots inside an `Images/` folder and they will appear here automatically.)*
-
 <p align="center">
   <img src="Images/screenshot1.png" width="500">
 </p>
