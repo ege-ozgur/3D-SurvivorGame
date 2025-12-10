@@ -1,0 +1,6 @@
+.vs/
+.vs/**/*
+*.vsidx
+*.db
+*.db-wal
+*.db-shm
